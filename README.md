@@ -1,16 +1,50 @@
-## Hi there 👋
+# ¡Hola! Soy El Profe Fran 👋
 
-<!--
-**elprofefran/elprofefran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Docente de tecnología | Programación · Diseño 3D · Robótica
 
-Here are some ideas to get you started:
+Creo contenido educativo para que aprender tecnología sea accesible para todos.
+Sin vueltas, puro conocimiento aplicable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 ¿Qué vas a encontrar acá?
+
+- 💻 **Programación** — proyectos, ejercicios y ejemplos desde cero hasta nivel avanzado
+- 🎨 **Diseño 3D** — modelos, renders y recursos para aprender modelado
+- 🤖 **Robótica** — código para Arduino, automatización y electrónica
+- 🧠 **IA & Tecnología** — experimentos y herramientas del mundo real
+
+---
+
+## 🛠️ Tecnologías que uso
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
+
+---
+
+## 📺 Seguime en redes
+
+[![Instagram](https://img.shields.io/badge/@elprofe.fran-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/elprofe.fran)
+[![TikTok](https://img.shields.io/badge/@elprofe.fran-000000?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@elprofe.fran)
+[![YouTube](https://img.shields.io/badge/El_Profe_Fran-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@elprofefran)
+[![Web](https://img.shields.io/badge/elprofefran.site-0a0a0f?style=flat&logo=google-chrome&logoColor=00e5ff)](https://elprofefran.site)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elprofefran&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elprofefran&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+> *"La mejor manera de aprender tecnología es haciendo."* 🚀
+
+📬 Contacto: [elprofefran.site](https://elprofefran.site)
