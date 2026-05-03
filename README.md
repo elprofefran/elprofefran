@@ -33,7 +33,7 @@ Sin vueltas, puro conocimiento aplicable.
 
 [![Instagram](https://img.shields.io/badge/@elprofe.fran-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/elprofe.fran)
 [![TikTok](https://img.shields.io/badge/@elprofe.fran-000000?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@elprofe.fran)
-[![YouTube](https://img.shields.io/badge/El_Profe_Fran-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@elprofefran)
+[![YouTube](https://img.shields.io/badge/El_Profe_Fran-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@elprofe_fran)
 [![Web](https://img.shields.io/badge/elprofefran.site-0a0a0f?style=flat&logo=google-chrome&logoColor=00e5ff)](https://elprofefran.site)
 
 ---
